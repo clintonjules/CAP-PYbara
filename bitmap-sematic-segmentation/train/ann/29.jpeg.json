@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 190,
+        "width": 265
+    },
+    "objects": [
+        {
+            "id": 1498542386,
+            "classId": 12103904,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cjules",
+            "createdAt": "2023-12-15T03:10:37.706Z",
+            "updatedAt": "2023-12-15T03:10:37.706Z",
+            "tags": [],
+            "classTitle": "hat_placement",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJeQCzNyAwkH57pTgBSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5MR6ujiGVMxJTvj/fz4j15v//+0ZUq8B1TKf+gMk5YVmeNxKeHbIl9VIcoPhawEf6RV//ycw9XAUz/j/P7/B6Kag31N3g6eFhtIPfHbs/FTgzjzTXuAMu4Ga/aGbbxyYGb6fcPb8tHXyKqBFDJ6ufi7rnBKaAHWeR1M=",
+                "origin": [
+                    115,
+                    35
+                ]
+            }
+        }
+    ]
+}

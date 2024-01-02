@@ -1,6 +1,6 @@
 from fastai.vision.all import *
 
-def main(filepath: str, modelpath: str, show_results:bool = True):
+def main(filepath: str, modelpath: str, show_results:bool = False):
     # Define the path to your images
     path = Path(filepath)
 

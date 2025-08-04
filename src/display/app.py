@@ -5,7 +5,7 @@ from werkzeug.utils import secure_filename
 from flask_cors import CORS
 
 sys.path.insert(1, '../')
-from model import main as classify_image  # Importing the classify function from your model.py
+from src.model import main as classify_image  # Importing the classify function from your model.py
 
 UPLOAD_FOLDER = '../uploads'
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif'}

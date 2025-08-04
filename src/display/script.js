@@ -22,11 +22,11 @@ function uploadImage() {
                 resultText = 'Prediction: ' + data.prediction + '\nProbability: ' + data.probability;
 
                 if (data.prediction == "CAP") {
-                    resultImage.src = "/Desktop/cap-pybara/billed-cap.png";
+                    resultImage.src = "cap_images/billed-cap.png";
                 }
                 
                 else {
-                    resultImage.src = "/Desktop/cap-pybara/no_cap.jpeg";
+                    resultImage.src = "cap_images/no_cap.jpeg";
                 }
                 
                 resultImage.style.display = 'block';
